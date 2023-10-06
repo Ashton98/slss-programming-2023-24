@@ -1,0 +1,1 @@
+modules are bits of code that we can use in python , these bits of code arent automatically

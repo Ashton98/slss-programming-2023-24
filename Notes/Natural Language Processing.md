@@ -6,7 +6,7 @@ tags:
   - programming-level-1-2
 ---
 # Natural Language Processing
-## Output
+#Output
 We can use a function to display text and symbols to the screen
 We use the `print()` function to display output
 
