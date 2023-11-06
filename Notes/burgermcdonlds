@@ -1,0 +1,16 @@
+order_cost = 0
+burger = 5
+fries = 3
+
+burger_ask = input("Do you want burger for 5$ (yes/no) ")
+if burger_ask.lower().strip("!,.?") == "yes":
+    order_cost += int(5)
+fries_ask = input("Do you want fries 3$ (yes/no) ")
+
+
+
+if fries_ask.lower().strip("!,.?") == "yes":
+    order_cost += int(3)
+
+
+print(order_cost * 1.14)
